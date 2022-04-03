@@ -1,5 +1,5 @@
-* .project
-* .mxproject
-* .cproject
-* .launch
+*.project
+*.mxproject
+*.cproject
+*.launch
 .settings/
