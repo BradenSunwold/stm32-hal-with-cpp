@@ -1,0 +1,5 @@
+GpioPin.cpp:4:1:GpioPin::GpioPin(uint16_t, GPIO_TypeDef*)	24	static
+GpioPin.cpp:11:6:bool GpioPin::Read()	16	static
+GpioPin.cpp:16:6:void GpioPin::Set()	16	static
+GpioPin.cpp:21:6:void GpioPin::Clear()	16	static
+GpioPin.cpp:26:6:void GpioPin::Toggle()	16	static
