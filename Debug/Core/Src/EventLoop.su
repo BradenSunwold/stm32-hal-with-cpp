@@ -1,2 +1,3 @@
 EventLoop.cpp:6:6:void EventLoopCpp()	16	static
 EventLoop.cpp:14:7:void EventLoopC()	8	static
+EventLoop.cpp:19:7:void InitializeInterface(ReadHwTimer, ReadOverflow)	16	static
